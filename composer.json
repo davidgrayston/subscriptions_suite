@@ -13,7 +13,8 @@
 
     "require": {
         "drupal/domain": "^1.0",
-        "drupal/paragraphs": "^1.0"
+        "drupal/paragraphs": "^1.0",
+        "davidgrayston/domain_path": "@dev"
     }
 }
 
